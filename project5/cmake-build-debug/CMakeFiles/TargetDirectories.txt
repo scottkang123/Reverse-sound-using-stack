@@ -1,0 +1,4 @@
+/Users/scottkang/Desktop/CS2201 PA/project5/project5/cmake-build-debug/CMakeFiles/project5.dir
+/Users/scottkang/Desktop/CS2201 PA/project5/project5/cmake-build-debug/CMakeFiles/project5-test.dir
+/Users/scottkang/Desktop/CS2201 PA/project5/project5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/scottkang/Desktop/CS2201 PA/project5/project5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
